@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/LymA0U9.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s11.gifyu.com/images/SgQkn.md.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
